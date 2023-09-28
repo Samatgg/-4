@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тумаков Лабораторка 4", "Тумаков Лабораторка 4\Тумаков Лабораторка 4.csproj", "{F84E7FB5-FF50-4BA3-AFEF-A305DE7C09E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Дз 1-6", "Дз 1-6\Дз 1-6.csproj", "{10A5BDA0-1913-478D-8153-B1D3B8060BE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F84E7FB5-FF50-4BA3-AFEF-A305DE7C09E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F84E7FB5-FF50-4BA3-AFEF-A305DE7C09E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F84E7FB5-FF50-4BA3-AFEF-A305DE7C09E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F84E7FB5-FF50-4BA3-AFEF-A305DE7C09E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10A5BDA0-1913-478D-8153-B1D3B8060BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A5BDA0-1913-478D-8153-B1D3B8060BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A5BDA0-1913-478D-8153-B1D3B8060BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A5BDA0-1913-478D-8153-B1D3B8060BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3B8E326-3063-4A25-ADB2-9958C3ECAA30}
+	EndGlobalSection
+EndGlobal
